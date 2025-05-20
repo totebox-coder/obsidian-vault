@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "48e916d6a29ac285",
+        "id": "d2332ef551ce3048",
         "type": "tabs",
         "children": [
           {
-            "id": "10c8bd10c6672366",
+            "id": "8c65c3060c263f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_personal/00_自分について.md",
+                "file": "20_work/03_linkedin/linkedinの利用方針.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_自分について"
-            }
-          },
-          {
-            "id": "c792397dc6f8f2d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_personal/01_キャリアプラン.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01_キャリアプラン"
-            }
-          },
-          {
-            "id": "8bbee30861f3b35d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_personal/01_キャリアプラン（改）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01_キャリアプラン（改）"
+              "title": "linkedinの利用方針"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 280.5
   },
   "right": {
     "id": "0f10a762c723e072",
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_personal/01_キャリアプラン（改）.md",
+                "file": "00_inbox/01_clips/2025-05-20T160352+0900_Obsidianでマインドマップを作成する方法3選.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01_キャリアプラン（改）へのバックリンク"
+              "title": "2025-05-20T160352+0900_Obsidianでマインドマップを作成する方法3選へのバックリンク"
             }
           },
           {
@@ -198,20 +169,27 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "256ac266e8632e36",
+  "active": "8c65c3060c263f49",
   "lastOpenFiles": [
-    "README.md",
-    "30_personal/01_キャリアプラン（改）.md",
-    "30_personal/01_キャリアプラン.md",
-    "30_personal/00_自分について.md",
     "20_work/01_x/Xの利用方針.md",
-    "30_personal/2025年の過ごし方.md",
+    "20_work/03_linkedin/linkedinの利用方針.md",
+    "20_work/03_linkedin",
+    "20_work/02_note/noteの利用方針.md",
+    "00_inbox/01_clips/01_clips.md",
+    "00_inbox/01_clips/014_utilities/2025-05-20T160352+0900_Obsidianでマインドマップを作成する方法3選.md",
+    "30_personal/00_私について.md",
+    "00_inbox/02_memo/02_memo.md",
     "99_templates/02_daily-note.md",
+    "README.md",
+    "30_personal/2025年の過ごし方.md",
+    "30_personal/99_input/01_キャリアプラン（改）.md",
+    "30_personal/99_input",
+    "30_personal/99_input/01_キャリアプラン.md",
+    "私について.md",
+    "30_personal/99_input/00_自分について.md",
     "80_daily-note/2025-05-20.md",
     "2025-05-20.pdf",
     "10_knowledge/01_stock/011_books",
-    "00_inbox/01_clips/01_clips.md",
-    "00_inbox/02_memo/02_memo.md",
     "00_inbox/01_clips/015_bussiness/2025-05-20T094228+0900_ビジネスアーキテクト  デジタル人材の育成.md",
     "00_inbox/00_inbox.md",
     "99_templates/01_旅行テンプレート.md",
@@ -223,19 +201,12 @@
     "30_personal",
     "00_inbox/02_memo/20250127-地域活性学会.md",
     "Untitled.md",
-    "20_work/02_note/noteの利用方針.md",
     "00_inbox/02_memo/20250420-サイトビジネスのネタ.md",
     "00_inbox/01_clips/014_utilities/2025-05-20T094051+0900_プロダクト開発に必要なもの全部繋げたらCursorが最強のプロダクトマネージャーになった｜田口 信元.md",
     "20_work/02_note",
     "20_work/01_x",
-    "20_work/無題のファイル.md",
-    "00_inbox/02_memo/20250327-計画に必須の要素.md",
     "00_inbox/01_clips/013_gourmet",
     "00_inbox/01_clips/014_utilities",
-    "00_inbox/01_clips/無題のファイル.md",
-    "00_inbox/01_clips/015_bussiness",
-    "00_inbox/01_clips/012_travel",
-    "30_travel/2025/旅行タイトル（日程）.md",
     "無題のファイル.canvas"
   ]
 }
