@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "98130f2176f79aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e916d6a29ac285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10c8bd10c6672366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_personal/00_自分について.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_自分について"
+            }
+          },
+          {
+            "id": "c792397dc6f8f2d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_personal/01_キャリアプラン.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_キャリアプラン"
+            }
+          },
+          {
+            "id": "8bbee30861f3b35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_personal/01_キャリアプラン（改）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_キャリアプラン（改）"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fae7b682fc00d052",
+    "type": "split",
+    "children": [
+      {
+        "id": "383d7abfd137c9f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256ac266e8632e36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "414bc584d4e01973",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "2422a91d2086fd16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 458.5
+  },
+  "right": {
+    "id": "0f10a762c723e072",
+    "type": "split",
+    "children": [
+      {
+        "id": "17031a860d1bc732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fff6ac542efd6f28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "30_personal/01_キャリアプラン（改）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01_キャリアプラン（改）へのバックリンク"
+            }
+          },
+          {
+            "id": "d4cef39c3a3a1be7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "READMEからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "37f3be9e1101a44a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "9d6143b9e445cc30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "READMEのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "canvas:新規キャンバスを作成": false,
+      "templater-obsidian:Templater": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "256ac266e8632e36",
+  "lastOpenFiles": [
+    "README.md",
+    "30_personal/01_キャリアプラン（改）.md",
+    "30_personal/01_キャリアプラン.md",
+    "30_personal/00_自分について.md",
+    "20_work/01_x/Xの利用方針.md",
+    "30_personal/2025年の過ごし方.md",
+    "99_templates/02_daily-note.md",
+    "80_daily-note/2025-05-20.md",
+    "2025-05-20.pdf",
+    "10_knowledge/01_stock/011_books",
+    "00_inbox/01_clips/01_clips.md",
+    "00_inbox/02_memo/02_memo.md",
+    "00_inbox/01_clips/015_bussiness/2025-05-20T094228+0900_ビジネスアーキテクト  デジタル人材の育成.md",
+    "00_inbox/00_inbox.md",
+    "99_templates/01_旅行テンプレート.md",
+    "80_daily-note",
+    "2025-05-20.md",
+    "00_inbox/01_clips/014_utilities/2025-05-20T092237+0900_【第二の脳を作る】ObsidianとCursorで始める新時代のメモ術を徹底解説｜まさお@未経験からプロまでAI活用.md",
+    "00_inbox/01_clips/014_utilities/2025-05-20T113830+0900_Obsidianにフォルダーノート機能がないならプラグインで解決しようという話｜Mekann.md",
+    "10_knowledge/01_stock/無題のファイル.md",
+    "30_personal",
+    "00_inbox/02_memo/20250127-地域活性学会.md",
+    "Untitled.md",
+    "20_work/02_note/noteの利用方針.md",
+    "00_inbox/02_memo/20250420-サイトビジネスのネタ.md",
+    "00_inbox/01_clips/014_utilities/2025-05-20T094051+0900_プロダクト開発に必要なもの全部繋げたらCursorが最強のプロダクトマネージャーになった｜田口 信元.md",
+    "20_work/02_note",
+    "20_work/01_x",
+    "20_work/無題のファイル.md",
+    "00_inbox/02_memo/20250327-計画に必須の要素.md",
+    "00_inbox/01_clips/013_gourmet",
+    "00_inbox/01_clips/014_utilities",
+    "00_inbox/01_clips/無題のファイル.md",
+    "00_inbox/01_clips/015_bussiness",
+    "00_inbox/01_clips/012_travel",
+    "30_travel/2025/旅行タイトル（日程）.md",
+    "無題のファイル.canvas"
+  ]
+}
